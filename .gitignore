@@ -1,0 +1,27 @@
+# Public roles
+roles/externals
+
+# CMDB export
+out/
+overview.html
+
+# Vim swap files
+.*.swo
+.*.swp
+
+# Python
+*.pyc
+
+# Vagrant cache
+.vagrant
+*.retry
+
+# Tox files
+.tox
+
+# Misc
+.cache
+*.log
+
+# Molecule
+.molecule

@@ -1,0 +1,6 @@
+---
+
+# Base packages install
+- src: 'infOpen.base-packages'
+  version: '0.6.0'
+  name: 'base-packages'
